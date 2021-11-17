@@ -1,0 +1,11 @@
+[user]
+
+name = wangsq
+
+email = wangsq@dahuici.com
+
+signingkey = wangsq@123
+
+[credential]
+
+helper = store
